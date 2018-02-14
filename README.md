@@ -1,2 +1,2 @@
-# Alees-Linux-Distro
-It has no name yet but it's based from Arch
+# Project: Caelus
+It's a distro based from Arch and uses Qt
